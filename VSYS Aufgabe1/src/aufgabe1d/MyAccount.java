@@ -2,7 +2,7 @@ package aufgabe1d;
 
 public class MyAccount {
 	
-	public static int wert;
+	public static int wert=0;
 
 	public static int getWert() {
 		return wert;
